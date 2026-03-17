@@ -37,7 +37,6 @@ I'm a **Laravel-focused full-stack developer** with a strong product mindset —
 | Project | Description | Stack |
 |---|---|---|
 | 🎉 [**inviti.tn**](https://inviti.tn/) | Digital invitation platform for events & weddings | Laravel · Livewire · Tailwind |
-| 💪 [**MATEFIT**](https://matefit.pro/) | Fitness & coaching management platform | Laravel · Vue.js · MySQL |
 | 🏥 [**LeCabinet**](https://lecabinet.tn/) | Medical practice management SaaS | Laravel · REST API · MariaDB |
 | 🍔 [**Foodhub**](https://foodhub.tn/) | Food delivery & restaurant aggregator | Laravel · React · Redis |
 
