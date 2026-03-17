@@ -35,13 +35,14 @@ I'm a **Laravel-focused full-stack developer** with a strong product mindset —
 > Products I've built and shipped — real users, real traffic.
 
 | Project | Description |
-|---|---|---|
+|---|---|
 | 🎉 [**inviti.tn**](https://inviti.tn/) | Digital invitation platform for events & weddings |
-| 🏥 [**LeCabinet**](https://lecabinet.tn/) | Medical practice management SaaS | 
+| 🏥 [**LeCabinet**](https://lecabinet.tn/) | Medical practice management SaaS |
 | 🍔 [**Foodhub**](https://foodhub.tn/) | Food delivery & restaurant aggregator |
-| 🍔 [**makalabs**](https://makalabs.tn/) | IT Agency |
+| 🏢 [**Makalabs**](https://makalabs.tn/) | IT Agency |
 
 ---
+
 
 ## 🛠️ Tech Stack
 
