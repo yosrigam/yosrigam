@@ -40,6 +40,10 @@ I'm a **Laravel-focused full-stack developer** with a strong product mindset —
 | 🏥 [**LeCabinet**](https://lecabinet.tn/) | Medical practice management SaaS |
 | 🍔 [**Foodhub**](https://foodhub.tn/) | Food delivery & restaurant aggregator |
 | 🏢 [**Makalabs**](https://makalabs.tn/) | IT Agency |
+| 🏢 [**Viav**](https://viav.tn/) | Audiovisual Agency |
+| 🏢 [**flashsale**](https://flashsale.tn/) | multi tenant ecommerce platform  |
+
+
 
 ---
 
